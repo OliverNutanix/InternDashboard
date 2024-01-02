@@ -1,0 +1,6 @@
+.header {
+    background-color: #324b65; /* Blue background */
+    color: rgb(11, 186, 180);             /* White text */
+    padding: 10px;            /* Some padding */
+    text-align: center;       /* Centered text */
+}
